@@ -1,0 +1,17 @@
+# Store rådata og mellomfiler
+data/rådata/
+data/bysykkel.csv
+data/ver.csv
+
+# Rapportkjelde
+rapport.qmd
+references.bib
+apa7-nn.csl
+_extensions/
+rapport_files/
+
+# Systemfiler og div
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+dat158.code-workspace

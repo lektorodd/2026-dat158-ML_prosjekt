@@ -1,0 +1,13 @@
+modell,data,MAE,RMSE,skeivheit
+Baseline,trening 2023,16.1,24.5,0.0
+Baseline,validering 2024,20.6,30.1,9.5
+Ridge,trening 2023,23.9,32.4,-0.0
+Ridge,validering 2024,25.3,32.9,11.5
+Ridge med samspel,trening 2023,19.0,26.0,-0.0
+Ridge med samspel,validering 2024,21.1,27.8,11.4
+Random forest,trening 2023,10.1,15.2,0.2
+Random forest,validering 2024,16.7,24.1,10.7
+Gradient boosting,trening 2023,10.0,14.7,0.0
+Gradient boosting,validering 2024,15.2,21.5,9.4
+Baseline,test 2025,19.1,29.4,14.5
+Gradient boosting,test 2025,16.1,23.6,14.1
