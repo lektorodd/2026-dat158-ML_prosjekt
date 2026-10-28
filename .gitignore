@@ -9,6 +9,7 @@ references.bib
 apa7-nn.csl
 _extensions/
 rapport_files/
+.quarto/
 
 # Systemfiler og div
 __pycache__/
